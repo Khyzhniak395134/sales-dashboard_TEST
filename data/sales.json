@@ -1,0 +1,7002 @@
+[
+  {
+    "order_id": "ORD10000",
+    "date": "2025-01-20",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1434,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10001",
+    "date": "2025-12-08",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 813,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10002",
+    "date": "2025-06-25",
+    "product": "Huawei MatePad 11",
+    "category": "Tablets",
+    "price": 520,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10003",
+    "date": "2025-11-04",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 542,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10004",
+    "date": "2025-09-14",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 417,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10005",
+    "date": "2025-10-18",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 799,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10006",
+    "date": "2025-02-13",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 1007,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10007",
+    "date": "2025-01-24",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 774,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10008",
+    "date": "2025-05-08",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 60,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10009",
+    "date": "2025-03-18",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 140,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10010",
+    "date": "2025-12-27",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1636,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10011",
+    "date": "2025-03-27",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 843,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10012",
+    "date": "2025-07-01",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 125,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10013",
+    "date": "2025-03-21",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 96,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10014",
+    "date": "2025-11-27",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 967,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10015",
+    "date": "2025-03-09",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 115,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10016",
+    "date": "2025-01-26",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 87,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10017",
+    "date": "2025-05-13",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 323,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10018",
+    "date": "2025-03-06",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 465,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10019",
+    "date": "2025-10-26",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 626,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10020",
+    "date": "2025-05-07",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 835,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10021",
+    "date": "2025-11-18",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 601,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10022",
+    "date": "2025-04-27",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 70,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10023",
+    "date": "2025-09-11",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 479,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10024",
+    "date": "2025-12-30",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 80,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10025",
+    "date": "2025-06-26",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 713,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10026",
+    "date": "2025-04-17",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 895,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10027",
+    "date": "2025-07-03",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 51,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10028",
+    "date": "2025-05-02",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 497,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10029",
+    "date": "2025-10-31",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 119,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10030",
+    "date": "2025-12-17",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 730,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10031",
+    "date": "2025-01-28",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 77,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10032",
+    "date": "2025-08-02",
+    "product": "ASUS ROG Strix",
+    "category": "Laptops",
+    "price": 2321,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10033",
+    "date": "2025-04-07",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 1026,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10034",
+    "date": "2025-05-08",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 750,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10035",
+    "date": "2025-08-04",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 686,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10036",
+    "date": "2025-04-06",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 966,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10037",
+    "date": "2025-12-07",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 9,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10038",
+    "date": "2025-07-29",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 60,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10039",
+    "date": "2025-11-12",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 852,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10040",
+    "date": "2025-04-04",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 79,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10041",
+    "date": "2025-01-11",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 37,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10042",
+    "date": "2025-05-02",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 179,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10043",
+    "date": "2025-03-14",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 90,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10044",
+    "date": "2025-06-18",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 511,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10045",
+    "date": "2025-09-02",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 420,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10046",
+    "date": "2025-04-12",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 71,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10047",
+    "date": "2025-11-19",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 626,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10048",
+    "date": "2025-03-20",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 196,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10049",
+    "date": "2025-02-09",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 57,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10050",
+    "date": "2025-04-16",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 188,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10051",
+    "date": "2025-07-18",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 120,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10052",
+    "date": "2025-09-27",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 79,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10053",
+    "date": "2025-01-08",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 527,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10054",
+    "date": "2025-03-27",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10055",
+    "date": "2025-01-13",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 98,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10056",
+    "date": "2025-01-17",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10057",
+    "date": "2025-04-18",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 456,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10058",
+    "date": "2025-08-30",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 149,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10059",
+    "date": "2025-07-14",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 257,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10060",
+    "date": "2025-07-27",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 32,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10061",
+    "date": "2025-07-14",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 783,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10062",
+    "date": "2025-10-10",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 10,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10063",
+    "date": "2025-10-09",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 177,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10064",
+    "date": "2025-09-29",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 221,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10065",
+    "date": "2025-09-22",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 1039,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10066",
+    "date": "2025-02-14",
+    "product": "Huawei MateBook D16",
+    "category": "Laptops",
+    "price": 807,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10067",
+    "date": "2025-05-17",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 17,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10068",
+    "date": "2025-01-16",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 711,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10069",
+    "date": "2025-05-01",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 185,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10070",
+    "date": "2025-05-27",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 61,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10071",
+    "date": "2025-12-18",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 668,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10072",
+    "date": "2025-06-22",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 350,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10073",
+    "date": "2025-08-30",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1420,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10074",
+    "date": "2025-10-11",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 466,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10075",
+    "date": "2025-05-24",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 736,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10076",
+    "date": "2025-06-17",
+    "product": "Gaming Chair",
+    "category": "Gaming",
+    "price": 333,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10077",
+    "date": "2025-09-19",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 577,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10078",
+    "date": "2025-04-10",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 31,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10079",
+    "date": "2025-04-28",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 599,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10080",
+    "date": "2025-04-18",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 764,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10081",
+    "date": "2025-03-04",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 150,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10082",
+    "date": "2025-05-08",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 488,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10083",
+    "date": "2025-11-06",
+    "product": "Huawei MatePad 11",
+    "category": "Tablets",
+    "price": 520,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10084",
+    "date": "2025-02-03",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 33,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10085",
+    "date": "2025-12-14",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 11,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10086",
+    "date": "2025-06-25",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 624,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10087",
+    "date": "2025-06-01",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 322,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10088",
+    "date": "2025-05-10",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 189,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10089",
+    "date": "2025-10-05",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 577,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10090",
+    "date": "2025-11-06",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 101,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10091",
+    "date": "2025-05-24",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 545,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10092",
+    "date": "2025-07-15",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 309,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10093",
+    "date": "2025-08-10",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 234,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10094",
+    "date": "2025-09-19",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 672,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10095",
+    "date": "2025-07-01",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 1038,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10096",
+    "date": "2025-11-05",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 389,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10097",
+    "date": "2025-04-25",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 509,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10098",
+    "date": "2025-10-02",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 508,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10099",
+    "date": "2025-03-25",
+    "product": "ASUS ROG Strix",
+    "category": "Laptops",
+    "price": 1773,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10100",
+    "date": "2025-11-23",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 166,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10101",
+    "date": "2025-10-23",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1485,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10102",
+    "date": "2025-11-11",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 512,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10103",
+    "date": "2025-05-05",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 17,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10104",
+    "date": "2025-11-08",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 74,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10105",
+    "date": "2025-12-02",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 194,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10106",
+    "date": "2025-03-25",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 585,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10107",
+    "date": "2025-01-17",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 269,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10108",
+    "date": "2025-01-19",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 226,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10109",
+    "date": "2025-02-12",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 105,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10110",
+    "date": "2025-09-12",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 355,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10111",
+    "date": "2025-01-11",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 8,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10112",
+    "date": "2025-12-25",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 561,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10113",
+    "date": "2025-04-18",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 12,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10114",
+    "date": "2025-07-10",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 55,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10115",
+    "date": "2025-11-14",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 387,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10116",
+    "date": "2025-12-09",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 102,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10117",
+    "date": "2025-12-17",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 774,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10118",
+    "date": "2025-03-23",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 12,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10119",
+    "date": "2025-08-01",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1090,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10120",
+    "date": "2025-03-25",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 486,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10121",
+    "date": "2025-07-15",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 432,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10122",
+    "date": "2025-01-01",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 377,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10123",
+    "date": "2025-08-16",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 79,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10124",
+    "date": "2025-02-19",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 458,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10125",
+    "date": "2025-02-02",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 263,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10126",
+    "date": "2025-03-01",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 735,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10127",
+    "date": "2025-12-03",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 752,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10128",
+    "date": "2025-05-05",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 773,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10129",
+    "date": "2025-12-21",
+    "product": "Huawei MatePad 11",
+    "category": "Tablets",
+    "price": 513,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10130",
+    "date": "2025-12-11",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 434,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10131",
+    "date": "2025-10-19",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1627,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10132",
+    "date": "2025-10-05",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 1003,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10133",
+    "date": "2025-02-10",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 227,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10134",
+    "date": "2025-12-04",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1005,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10135",
+    "date": "2025-10-16",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 522,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10136",
+    "date": "2025-11-14",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 393,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10137",
+    "date": "2025-08-23",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 85,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10138",
+    "date": "2025-06-09",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10139",
+    "date": "2025-06-07",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 424,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10140",
+    "date": "2025-12-02",
+    "product": "ASUS ROG Strix",
+    "category": "Laptops",
+    "price": 1531,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10141",
+    "date": "2025-05-15",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 733,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10142",
+    "date": "2025-06-15",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 597,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10143",
+    "date": "2025-10-12",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 630,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10144",
+    "date": "2025-01-30",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 439,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10145",
+    "date": "2025-11-21",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 462,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10146",
+    "date": "2025-10-06",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 17,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10147",
+    "date": "2025-11-04",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 24,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10148",
+    "date": "2025-07-19",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 58,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10149",
+    "date": "2025-10-31",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 436,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10150",
+    "date": "2025-01-16",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 286,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10151",
+    "date": "2025-06-25",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 932,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10152",
+    "date": "2025-11-22",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 712,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10153",
+    "date": "2025-04-08",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 573,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10154",
+    "date": "2025-06-12",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 542,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10155",
+    "date": "2025-11-10",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 149,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10156",
+    "date": "2025-02-19",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 643,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10157",
+    "date": "2025-12-26",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 715,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10158",
+    "date": "2025-02-08",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 566,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10159",
+    "date": "2025-06-04",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 714,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10160",
+    "date": "2025-01-20",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 122,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10161",
+    "date": "2025-08-02",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 633,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10162",
+    "date": "2025-09-28",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 43,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10163",
+    "date": "2025-06-07",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 35,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10164",
+    "date": "2025-03-20",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 39,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10165",
+    "date": "2025-07-20",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 543,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10166",
+    "date": "2025-09-10",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 104,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10167",
+    "date": "2025-09-22",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 104,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10168",
+    "date": "2025-02-22",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 284,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10169",
+    "date": "2025-06-09",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 450,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10170",
+    "date": "2025-08-08",
+    "product": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 2313,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10171",
+    "date": "2025-03-07",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 586,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10172",
+    "date": "2025-12-17",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 575,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10173",
+    "date": "2025-04-17",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 118,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10174",
+    "date": "2025-07-02",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1058,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10175",
+    "date": "2025-05-27",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 426,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10176",
+    "date": "2025-12-01",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 701,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10177",
+    "date": "2025-01-10",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 200,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10178",
+    "date": "2025-06-25",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 264,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10179",
+    "date": "2025-02-27",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 385,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10180",
+    "date": "2025-05-31",
+    "product": "Motorola Edge 40",
+    "category": "Smartphones",
+    "price": 490,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10181",
+    "date": "2025-10-18",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1235,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10182",
+    "date": "2025-06-21",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 1067,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10183",
+    "date": "2025-05-27",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 418,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10184",
+    "date": "2025-05-13",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 183,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10185",
+    "date": "2025-06-24",
+    "product": "Samsung Tab A9",
+    "category": "Tablets",
+    "price": 247,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10186",
+    "date": "2025-10-16",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 528,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10187",
+    "date": "2025-05-17",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 17,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10188",
+    "date": "2025-08-05",
+    "product": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 2350,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10189",
+    "date": "2025-04-09",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 694,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10190",
+    "date": "2025-12-23",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 543,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10191",
+    "date": "2025-10-09",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 610,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10192",
+    "date": "2025-04-05",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 122,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10193",
+    "date": "2025-08-20",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 579,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10194",
+    "date": "2025-12-27",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 1306,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10195",
+    "date": "2025-10-05",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 913,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10196",
+    "date": "2025-11-04",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 80,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10197",
+    "date": "2025-03-03",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 79,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10198",
+    "date": "2025-02-16",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 636,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10199",
+    "date": "2025-09-06",
+    "product": "Samsung Tab A9",
+    "category": "Tablets",
+    "price": 206,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10200",
+    "date": "2025-05-27",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 99,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10201",
+    "date": "2025-11-07",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 534,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10202",
+    "date": "2025-01-12",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 1034,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10203",
+    "date": "2025-06-07",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 301,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10204",
+    "date": "2025-04-13",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 1709,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10205",
+    "date": "2025-11-17",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 31,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10206",
+    "date": "2025-09-23",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 997,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10207",
+    "date": "2025-09-03",
+    "product": "Huawei MatePad 11",
+    "category": "Tablets",
+    "price": 527,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10208",
+    "date": "2025-07-11",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 360,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10209",
+    "date": "2025-10-18",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 78,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10210",
+    "date": "2025-11-26",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 698,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10211",
+    "date": "2025-06-15",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 432,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10212",
+    "date": "2025-01-07",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 987,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10213",
+    "date": "2025-08-30",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 315,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10214",
+    "date": "2025-06-02",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 480,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10215",
+    "date": "2025-12-30",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 394,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10216",
+    "date": "2025-03-03",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 91,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10217",
+    "date": "2025-10-06",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 1085,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10218",
+    "date": "2025-05-24",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1749,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10219",
+    "date": "2025-01-19",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 349,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10220",
+    "date": "2025-07-15",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 835,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10221",
+    "date": "2025-03-03",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 385,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10222",
+    "date": "2025-01-23",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 663,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10223",
+    "date": "2025-10-14",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 349,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10224",
+    "date": "2025-01-01",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 871,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10225",
+    "date": "2025-10-21",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 56,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10226",
+    "date": "2025-08-23",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 507,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10227",
+    "date": "2025-04-29",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 445,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10228",
+    "date": "2025-12-12",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 230,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10229",
+    "date": "2025-09-22",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 1136,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10230",
+    "date": "2025-02-06",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 312,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10231",
+    "date": "2025-07-15",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 750,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10232",
+    "date": "2025-02-06",
+    "product": "Huawei MateBook D16",
+    "category": "Laptops",
+    "price": 1014,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10233",
+    "date": "2025-03-10",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 530,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10234",
+    "date": "2025-10-13",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 1039,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10235",
+    "date": "2025-07-03",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1126,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10236",
+    "date": "2025-11-28",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 79,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10237",
+    "date": "2025-08-12",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 857,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10238",
+    "date": "2025-06-26",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 892,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10239",
+    "date": "2025-08-13",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 94,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10240",
+    "date": "2025-10-23",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 271,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10241",
+    "date": "2025-06-04",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 131,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10242",
+    "date": "2025-02-25",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 317,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10243",
+    "date": "2025-10-24",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 59,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10244",
+    "date": "2025-12-13",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1215,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10245",
+    "date": "2025-09-23",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 36,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10246",
+    "date": "2025-11-15",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 614,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10247",
+    "date": "2025-05-13",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 897,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10248",
+    "date": "2025-06-28",
+    "product": "Lenovo ThinkPad X1",
+    "category": "Laptops",
+    "price": 1727,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10249",
+    "date": "2025-11-19",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 24,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10250",
+    "date": "2025-09-10",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 821,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10251",
+    "date": "2025-09-17",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 473,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10252",
+    "date": "2025-12-06",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 97,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10253",
+    "date": "2025-01-09",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 252,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10254",
+    "date": "2025-03-09",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 649,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10255",
+    "date": "2025-11-11",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1224,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10256",
+    "date": "2025-02-19",
+    "product": "Microsoft Surface Go",
+    "category": "Tablets",
+    "price": 784,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10257",
+    "date": "2025-06-06",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 798,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10258",
+    "date": "2025-09-08",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 91,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10259",
+    "date": "2025-11-06",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 51,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10260",
+    "date": "2025-11-02",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 432,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10261",
+    "date": "2025-06-24",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 97,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10262",
+    "date": "2025-07-22",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 100,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10263",
+    "date": "2025-10-28",
+    "product": "MSI Modern 14",
+    "category": "Laptops",
+    "price": 1079,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10264",
+    "date": "2025-09-28",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 1179,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10265",
+    "date": "2025-02-11",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 496,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10266",
+    "date": "2025-04-11",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 61,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10267",
+    "date": "2025-04-18",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 652,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10268",
+    "date": "2025-09-30",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 618,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10269",
+    "date": "2025-01-21",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 26,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10270",
+    "date": "2025-02-16",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 256,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10271",
+    "date": "2025-05-19",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 148,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10272",
+    "date": "2025-05-04",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 68,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10273",
+    "date": "2025-06-20",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 11,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10274",
+    "date": "2025-12-04",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 171,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10275",
+    "date": "2025-12-22",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 84,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10276",
+    "date": "2025-09-29",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 215,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10277",
+    "date": "2025-03-10",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 486,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10278",
+    "date": "2025-01-17",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 37,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10279",
+    "date": "2025-07-31",
+    "product": "Samsung Tab A9",
+    "category": "Tablets",
+    "price": 273,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10280",
+    "date": "2025-06-28",
+    "product": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 2285,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10281",
+    "date": "2025-12-28",
+    "product": "Huawei MateBook D16",
+    "category": "Laptops",
+    "price": 851,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10282",
+    "date": "2025-01-06",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 294,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10283",
+    "date": "2025-12-05",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 350,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10284",
+    "date": "2025-09-18",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 269,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10285",
+    "date": "2025-06-22",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 255,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10286",
+    "date": "2025-09-27",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 79,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10287",
+    "date": "2025-04-21",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 10,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10288",
+    "date": "2025-06-12",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 199,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10289",
+    "date": "2025-05-09",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 875,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10290",
+    "date": "2025-11-15",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 125,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10291",
+    "date": "2025-08-26",
+    "product": "Microsoft Surface Go",
+    "category": "Tablets",
+    "price": 821,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10292",
+    "date": "2025-11-06",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 22,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10293",
+    "date": "2025-11-03",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 684,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10294",
+    "date": "2025-10-19",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 567,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10295",
+    "date": "2025-08-11",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 850,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10296",
+    "date": "2025-01-06",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 835,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10297",
+    "date": "2025-06-25",
+    "product": "Lenovo ThinkPad X1",
+    "category": "Laptops",
+    "price": 1105,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10298",
+    "date": "2025-03-09",
+    "product": "Samsung Tab A9",
+    "category": "Tablets",
+    "price": 233,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10299",
+    "date": "2025-11-17",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 392,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10300",
+    "date": "2025-04-24",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 638,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10301",
+    "date": "2025-07-04",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 474,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10302",
+    "date": "2025-02-21",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 619,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10303",
+    "date": "2025-03-30",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 15,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10304",
+    "date": "2025-02-12",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 748,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10305",
+    "date": "2025-11-22",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 591,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10306",
+    "date": "2025-09-18",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10307",
+    "date": "2025-05-01",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 10,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10308",
+    "date": "2025-03-15",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 6,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10309",
+    "date": "2025-09-17",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 1192,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10310",
+    "date": "2025-02-28",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 275,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10311",
+    "date": "2025-10-07",
+    "product": "Gaming Chair",
+    "category": "Gaming",
+    "price": 159,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10312",
+    "date": "2025-10-29",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 303,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10313",
+    "date": "2025-11-16",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 108,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10314",
+    "date": "2025-12-24",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 394,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10315",
+    "date": "2025-04-17",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 386,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10316",
+    "date": "2025-02-28",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 1550,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10317",
+    "date": "2025-12-14",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 5,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10318",
+    "date": "2025-08-28",
+    "product": "Microsoft Surface Go",
+    "category": "Tablets",
+    "price": 868,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10319",
+    "date": "2025-02-06",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 514,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10320",
+    "date": "2025-01-09",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 367,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10321",
+    "date": "2025-12-20",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 28,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10322",
+    "date": "2025-10-29",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 93,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10323",
+    "date": "2025-05-03",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 595,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10324",
+    "date": "2025-03-01",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 275,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10325",
+    "date": "2025-04-13",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 448,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10326",
+    "date": "2025-04-22",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 288,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10327",
+    "date": "2025-02-09",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 149,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10328",
+    "date": "2025-04-10",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 213,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10329",
+    "date": "2025-11-01",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 162,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10330",
+    "date": "2025-01-24",
+    "product": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 1824,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10331",
+    "date": "2025-01-28",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 98,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10332",
+    "date": "2025-08-17",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 6,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10333",
+    "date": "2025-06-15",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 12,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10334",
+    "date": "2025-12-05",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 828,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10335",
+    "date": "2025-01-10",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 162,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10336",
+    "date": "2025-07-15",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 460,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10337",
+    "date": "2025-04-21",
+    "product": "Gaming Chair",
+    "category": "Gaming",
+    "price": 123,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10338",
+    "date": "2025-01-04",
+    "product": "Samsung Tab A9",
+    "category": "Tablets",
+    "price": 252,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10339",
+    "date": "2025-10-19",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 392,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10340",
+    "date": "2025-12-02",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 678,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10341",
+    "date": "2025-04-07",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 56,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10342",
+    "date": "2025-07-13",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 447,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10343",
+    "date": "2025-12-30",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 856,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10344",
+    "date": "2025-02-20",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 552,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10345",
+    "date": "2025-09-15",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 202,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10346",
+    "date": "2025-08-26",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 224,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10347",
+    "date": "2025-08-12",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 138,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10348",
+    "date": "2025-10-21",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 142,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10349",
+    "date": "2025-10-16",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 666,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10350",
+    "date": "2025-08-01",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 54,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10351",
+    "date": "2025-11-26",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 265,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10352",
+    "date": "2025-06-26",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 181,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10353",
+    "date": "2025-08-06",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 508,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10354",
+    "date": "2025-10-13",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 407,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10355",
+    "date": "2025-06-09",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 51,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10356",
+    "date": "2025-01-04",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 408,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10357",
+    "date": "2025-02-05",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 867,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10358",
+    "date": "2025-07-15",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 438,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10359",
+    "date": "2025-09-08",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 942,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10360",
+    "date": "2025-09-29",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 139,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10361",
+    "date": "2025-04-12",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 38,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10362",
+    "date": "2025-02-07",
+    "product": "Huawei MateBook D16",
+    "category": "Laptops",
+    "price": 795,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10363",
+    "date": "2025-12-20",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 100,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10364",
+    "date": "2025-11-04",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 87,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10365",
+    "date": "2025-07-13",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 187,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10366",
+    "date": "2025-01-14",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 1051,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10367",
+    "date": "2025-10-16",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 528,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10368",
+    "date": "2025-12-26",
+    "product": "Motorola Edge 40",
+    "category": "Smartphones",
+    "price": 466,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10369",
+    "date": "2025-09-22",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 559,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10370",
+    "date": "2025-12-11",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 557,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10371",
+    "date": "2025-11-26",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1119,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10372",
+    "date": "2025-09-10",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 414,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10373",
+    "date": "2025-03-18",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 233,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10374",
+    "date": "2025-04-07",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 151,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10375",
+    "date": "2025-11-27",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 220,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10376",
+    "date": "2025-06-20",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 462,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10377",
+    "date": "2025-05-07",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 647,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10378",
+    "date": "2025-01-14",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 629,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10379",
+    "date": "2025-11-13",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 104,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10380",
+    "date": "2025-01-26",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 798,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10381",
+    "date": "2025-06-27",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 585,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10382",
+    "date": "2025-07-09",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 86,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10383",
+    "date": "2025-08-08",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 675,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10384",
+    "date": "2025-01-15",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 500,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10385",
+    "date": "2025-07-20",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1425,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10386",
+    "date": "2025-11-04",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 155,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10387",
+    "date": "2025-02-16",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 1058,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10388",
+    "date": "2025-11-18",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 134,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10389",
+    "date": "2025-09-16",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1587,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10390",
+    "date": "2025-08-23",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 364,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10391",
+    "date": "2025-04-02",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 114,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10392",
+    "date": "2025-09-29",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 574,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10393",
+    "date": "2025-07-21",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 196,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10394",
+    "date": "2025-10-27",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 42,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10395",
+    "date": "2025-07-21",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 468,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10396",
+    "date": "2025-11-25",
+    "product": "Microsoft Surface Go",
+    "category": "Tablets",
+    "price": 701,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10397",
+    "date": "2025-03-15",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 52,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10398",
+    "date": "2025-04-22",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 459,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10399",
+    "date": "2025-10-06",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 198,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10400",
+    "date": "2025-07-22",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 109,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10401",
+    "date": "2025-09-09",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 82,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10402",
+    "date": "2025-06-12",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 111,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10403",
+    "date": "2025-11-28",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 14,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10404",
+    "date": "2025-02-16",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 999,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10405",
+    "date": "2025-10-19",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 218,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10406",
+    "date": "2025-02-19",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 744,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10407",
+    "date": "2025-05-07",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 306,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10408",
+    "date": "2025-08-28",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 147,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10409",
+    "date": "2025-07-02",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 840,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10410",
+    "date": "2025-03-23",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 323,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10411",
+    "date": "2025-08-23",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 87,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10412",
+    "date": "2025-04-02",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 707,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10413",
+    "date": "2025-07-26",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 489,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10414",
+    "date": "2025-10-05",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 325,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10415",
+    "date": "2025-05-31",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 198,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10416",
+    "date": "2025-03-06",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 1734,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10417",
+    "date": "2025-05-09",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 542,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10418",
+    "date": "2025-10-13",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 135,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10419",
+    "date": "2025-04-19",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 47,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10420",
+    "date": "2025-11-26",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1487,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10421",
+    "date": "2025-07-22",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 442,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10422",
+    "date": "2025-05-30",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 6,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10423",
+    "date": "2025-04-24",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 85,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10424",
+    "date": "2025-12-11",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 10,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10425",
+    "date": "2025-05-24",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 358,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10426",
+    "date": "2025-06-26",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 725,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10427",
+    "date": "2025-11-08",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 167,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10428",
+    "date": "2025-10-11",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 498,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10429",
+    "date": "2025-05-28",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 90,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10430",
+    "date": "2025-08-06",
+    "product": "Huawei MatePad 11",
+    "category": "Tablets",
+    "price": 436,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10431",
+    "date": "2025-02-28",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10432",
+    "date": "2025-07-31",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 215,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10433",
+    "date": "2025-09-20",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 6,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10434",
+    "date": "2025-09-21",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 278,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10435",
+    "date": "2025-01-25",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 543,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10436",
+    "date": "2025-04-22",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 374,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10437",
+    "date": "2025-10-28",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 1165,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10438",
+    "date": "2025-03-17",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 244,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10439",
+    "date": "2025-06-29",
+    "product": "Steam Deck",
+    "category": "Gaming",
+    "price": 418,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10440",
+    "date": "2025-12-28",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 79,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10441",
+    "date": "2025-12-24",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 625,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10442",
+    "date": "2025-05-24",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 52,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10443",
+    "date": "2025-10-07",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 270,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10444",
+    "date": "2025-10-11",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 885,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10445",
+    "date": "2025-01-21",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 352,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10446",
+    "date": "2025-04-15",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 75,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10447",
+    "date": "2025-08-06",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 32,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10448",
+    "date": "2025-01-12",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10449",
+    "date": "2025-10-18",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 1019,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10450",
+    "date": "2025-01-23",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 434,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10451",
+    "date": "2025-08-08",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 340,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10452",
+    "date": "2025-12-23",
+    "product": "Motorola Edge 40",
+    "category": "Smartphones",
+    "price": 529,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10453",
+    "date": "2025-08-23",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 176,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10454",
+    "date": "2025-12-15",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 73,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10455",
+    "date": "2025-02-27",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 309,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10456",
+    "date": "2025-03-06",
+    "product": "ASUS ROG Strix",
+    "category": "Laptops",
+    "price": 1696,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10457",
+    "date": "2025-11-30",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 53,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10458",
+    "date": "2025-09-15",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 26,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10459",
+    "date": "2025-06-16",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 114,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10460",
+    "date": "2025-08-14",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 80,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10461",
+    "date": "2025-10-05",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 19,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10462",
+    "date": "2025-06-27",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 885,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10463",
+    "date": "2025-06-10",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 183,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10464",
+    "date": "2025-02-19",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 642,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10465",
+    "date": "2025-01-21",
+    "product": "Huawei MateBook D16",
+    "category": "Laptops",
+    "price": 759,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10466",
+    "date": "2025-06-14",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 386,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10467",
+    "date": "2025-05-04",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 901,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10468",
+    "date": "2025-12-25",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 81,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10469",
+    "date": "2025-04-15",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 987,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10470",
+    "date": "2025-12-20",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10471",
+    "date": "2025-01-20",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 129,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10472",
+    "date": "2025-04-23",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 110,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10473",
+    "date": "2025-03-31",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 483,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10474",
+    "date": "2025-05-16",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 649,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10475",
+    "date": "2025-09-26",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 629,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10476",
+    "date": "2025-11-17",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1216,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10477",
+    "date": "2025-10-29",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 65,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10478",
+    "date": "2025-10-26",
+    "product": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 2309,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10479",
+    "date": "2025-10-24",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 505,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10480",
+    "date": "2025-09-04",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 1178,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10481",
+    "date": "2025-01-07",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 64,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10482",
+    "date": "2025-12-05",
+    "product": "Samsung Smart Monitor",
+    "category": "Monitors",
+    "price": 301,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10483",
+    "date": "2025-10-19",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 99,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10484",
+    "date": "2025-09-08",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 181,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10485",
+    "date": "2025-02-17",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 177,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10486",
+    "date": "2025-04-15",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 282,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10487",
+    "date": "2025-11-10",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1052,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10488",
+    "date": "2025-05-30",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 69,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10489",
+    "date": "2025-05-09",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 194,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10490",
+    "date": "2025-10-27",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 98,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10491",
+    "date": "2025-04-29",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 26,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10492",
+    "date": "2025-10-06",
+    "product": "MSI Modern 14",
+    "category": "Laptops",
+    "price": 1236,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10493",
+    "date": "2025-06-29",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 51,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10494",
+    "date": "2025-10-02",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 132,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10495",
+    "date": "2025-11-20",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 99,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10496",
+    "date": "2025-07-14",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 287,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10497",
+    "date": "2025-10-04",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 140,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10498",
+    "date": "2025-02-26",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 1762,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10499",
+    "date": "2025-08-23",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 175,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10500",
+    "date": "2025-06-16",
+    "product": "VR Headset",
+    "category": "Gaming",
+    "price": 872,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10501",
+    "date": "2025-12-16",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 685,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10502",
+    "date": "2025-08-08",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 374,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10503",
+    "date": "2025-05-05",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 181,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10504",
+    "date": "2025-10-14",
+    "product": "Gaming Headset",
+    "category": "Gaming",
+    "price": 107,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10505",
+    "date": "2025-12-02",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 847,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10506",
+    "date": "2025-03-02",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 24,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10507",
+    "date": "2025-10-23",
+    "product": "Dell UltraSharp",
+    "category": "Monitors",
+    "price": 467,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10508",
+    "date": "2025-10-06",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1361,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10509",
+    "date": "2025-05-25",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 17,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10510",
+    "date": "2025-07-26",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 610,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10511",
+    "date": "2025-09-04",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 26,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10512",
+    "date": "2025-10-24",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 174,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10513",
+    "date": "2025-04-18",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10514",
+    "date": "2025-03-25",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 373,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10515",
+    "date": "2025-05-11",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 549,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10516",
+    "date": "2025-12-23",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 804,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10517",
+    "date": "2025-04-23",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 536,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10518",
+    "date": "2025-05-25",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10519",
+    "date": "2025-02-20",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 289,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10520",
+    "date": "2025-09-16",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 26,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10521",
+    "date": "2025-02-23",
+    "product": "HP Monitor 24",
+    "category": "Monitors",
+    "price": 299,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10522",
+    "date": "2025-12-26",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10523",
+    "date": "2025-07-28",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 994,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10524",
+    "date": "2025-10-26",
+    "product": "iPhone 14",
+    "category": "Smartphones",
+    "price": 872,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10525",
+    "date": "2025-05-14",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 858,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10526",
+    "date": "2025-10-25",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 166,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10527",
+    "date": "2025-09-29",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 979,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10528",
+    "date": "2025-11-08",
+    "product": "Realme GT 6",
+    "category": "Smartphones",
+    "price": 667,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10529",
+    "date": "2025-05-03",
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 1094,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10530",
+    "date": "2025-07-16",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 234,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10531",
+    "date": "2025-10-05",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 13,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10532",
+    "date": "2025-05-14",
+    "product": "ASUS ProArt",
+    "category": "Monitors",
+    "price": 708,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10533",
+    "date": "2025-10-02",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 53,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10534",
+    "date": "2025-08-26",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 38,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10535",
+    "date": "2025-04-08",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 880,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10536",
+    "date": "2025-02-08",
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 709,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10537",
+    "date": "2025-09-11",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 250,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10538",
+    "date": "2025-02-02",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 2120,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10539",
+    "date": "2025-03-28",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 943,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10540",
+    "date": "2025-02-16",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 724,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10541",
+    "date": "2025-10-02",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1008,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10542",
+    "date": "2025-07-18",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 841,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10543",
+    "date": "2025-04-20",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 25,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10544",
+    "date": "2025-05-29",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 522,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10545",
+    "date": "2025-07-29",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 282,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10546",
+    "date": "2025-02-02",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 100,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10547",
+    "date": "2025-07-18",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 33,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10548",
+    "date": "2025-09-06",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 289,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10549",
+    "date": "2025-02-01",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 298,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10550",
+    "date": "2025-10-21",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 70,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10551",
+    "date": "2025-09-11",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 305,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10552",
+    "date": "2025-01-19",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 2044,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10553",
+    "date": "2025-06-26",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 535,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10554",
+    "date": "2025-08-10",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 915,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10555",
+    "date": "2025-05-28",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 755,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10556",
+    "date": "2025-12-05",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 616,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10557",
+    "date": "2025-08-18",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 404,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10558",
+    "date": "2025-04-26",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 822,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10559",
+    "date": "2025-05-11",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 756,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10560",
+    "date": "2025-05-19",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1211,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10561",
+    "date": "2025-12-29",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 80,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10562",
+    "date": "2025-02-27",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 294,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10563",
+    "date": "2025-06-28",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 207,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10564",
+    "date": "2025-11-12",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 68,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10565",
+    "date": "2025-04-01",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 546,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10566",
+    "date": "2025-03-29",
+    "product": "Lenovo ThinkPad X1",
+    "category": "Laptops",
+    "price": 1647,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10567",
+    "date": "2025-08-28",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 22,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10568",
+    "date": "2025-03-09",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 79,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10569",
+    "date": "2025-07-02",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 296,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10570",
+    "date": "2025-08-25",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 119,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10571",
+    "date": "2025-09-04",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 538,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10572",
+    "date": "2025-01-05",
+    "product": "Lenovo Tab P12",
+    "category": "Tablets",
+    "price": 611,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10573",
+    "date": "2025-08-17",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 32,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10574",
+    "date": "2025-04-08",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 52,
+    "quantity": 4,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10575",
+    "date": "2025-09-26",
+    "product": "Marshall Speaker",
+    "category": "Audio",
+    "price": 323,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10576",
+    "date": "2025-02-25",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 400,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10577",
+    "date": "2025-07-03",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 690,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10578",
+    "date": "2025-07-16",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 29,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10579",
+    "date": "2025-08-08",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 419,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10580",
+    "date": "2025-10-02",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 38,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10581",
+    "date": "2025-08-06",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10582",
+    "date": "2025-11-15",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 31,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10583",
+    "date": "2025-09-25",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 383,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10584",
+    "date": "2025-02-01",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 145,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10585",
+    "date": "2025-10-13",
+    "product": "ASUS ROG Strix",
+    "category": "Laptops",
+    "price": 2031,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10586",
+    "date": "2025-10-10",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 42,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10587",
+    "date": "2025-10-10",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 22,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10588",
+    "date": "2025-08-04",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 540,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10589",
+    "date": "2025-09-13",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 292,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10590",
+    "date": "2025-03-04",
+    "product": "JBL Charge 5",
+    "category": "Audio",
+    "price": 159,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10591",
+    "date": "2025-03-06",
+    "product": "Xiaomi 14",
+    "category": "Smartphones",
+    "price": 655,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10592",
+    "date": "2025-08-16",
+    "product": "MacBook Pro 14",
+    "category": "Laptops",
+    "price": 2343,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10593",
+    "date": "2025-06-21",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 547,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10594",
+    "date": "2025-10-19",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 522,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10595",
+    "date": "2025-02-09",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10596",
+    "date": "2025-06-01",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 165,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10597",
+    "date": "2025-12-13",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 196,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10598",
+    "date": "2025-08-30",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 977,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10599",
+    "date": "2025-09-07",
+    "product": "Screen Protector",
+    "category": "Accessories",
+    "price": 10,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10600",
+    "date": "2025-07-09",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 922,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10601",
+    "date": "2025-05-02",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 713,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10602",
+    "date": "2025-05-28",
+    "product": "Dell XPS 15",
+    "category": "Laptops",
+    "price": 1924,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10603",
+    "date": "2025-04-01",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1350,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10604",
+    "date": "2025-06-16",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 574,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10605",
+    "date": "2025-04-21",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 28,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10606",
+    "date": "2025-04-07",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 595,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10607",
+    "date": "2025-08-25",
+    "product": "LG UltraWide",
+    "category": "Monitors",
+    "price": 395,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10608",
+    "date": "2025-09-17",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 125,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10609",
+    "date": "2025-06-28",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 251,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10610",
+    "date": "2025-01-12",
+    "product": "Google Pixel 8",
+    "category": "Smartphones",
+    "price": 664,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10611",
+    "date": "2025-08-25",
+    "product": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 646,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10612",
+    "date": "2025-01-03",
+    "product": "Bose QC45",
+    "category": "Audio",
+    "price": 349,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10613",
+    "date": "2025-08-16",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 44,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10614",
+    "date": "2025-09-11",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 78,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10615",
+    "date": "2025-01-20",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 174,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10616",
+    "date": "2025-01-02",
+    "product": "Anker Soundcore",
+    "category": "Audio",
+    "price": 94,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10617",
+    "date": "2025-03-28",
+    "product": "Huawei MatePad 11",
+    "category": "Tablets",
+    "price": 460,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10618",
+    "date": "2025-12-04",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 50,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10619",
+    "date": "2025-03-24",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 717,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10620",
+    "date": "2025-07-13",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 40,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10621",
+    "date": "2025-12-23",
+    "product": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 49,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10622",
+    "date": "2025-03-04",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 95,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10623",
+    "date": "2025-10-13",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 627,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10624",
+    "date": "2025-01-11",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 63,
+    "quantity": 4,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10625",
+    "date": "2025-04-12",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 590,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10626",
+    "date": "2025-06-15",
+    "product": "Logitech Speakers",
+    "category": "Audio",
+    "price": 99,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10627",
+    "date": "2025-07-22",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1121,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10628",
+    "date": "2025-11-13",
+    "product": "Samsung Tab A9",
+    "category": "Tablets",
+    "price": 347,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10629",
+    "date": "2025-11-05",
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 913,
+    "quantity": 3,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10630",
+    "date": "2025-06-04",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 668,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10631",
+    "date": "2025-05-24",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 133,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10632",
+    "date": "2025-11-20",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 145,
+    "quantity": 4,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10633",
+    "date": "2025-09-15",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 546,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10634",
+    "date": "2025-02-03",
+    "product": "BenQ Designer",
+    "category": "Monitors",
+    "price": 828,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10635",
+    "date": "2025-07-19",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 79,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10636",
+    "date": "2025-10-27",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 329,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10637",
+    "date": "2025-02-24",
+    "product": "Samsung Galaxy Book3",
+    "category": "Laptops",
+    "price": 1296,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10638",
+    "date": "2025-04-23",
+    "product": "AirPods Max",
+    "category": "Audio",
+    "price": 528,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10639",
+    "date": "2025-04-15",
+    "product": "Motorola Edge 40",
+    "category": "Smartphones",
+    "price": 475,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10640",
+    "date": "2025-12-04",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 214,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10641",
+    "date": "2025-01-01",
+    "product": "Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 86,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10642",
+    "date": "2025-02-13",
+    "product": "Microsoft Surface Go",
+    "category": "Tablets",
+    "price": 593,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10643",
+    "date": "2025-01-08",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 58,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10644",
+    "date": "2025-10-20",
+    "product": "AirPods Pro",
+    "category": "Accessories",
+    "price": 182,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10645",
+    "date": "2025-08-04",
+    "product": "iPad Pro",
+    "category": "Tablets",
+    "price": 1463,
+    "quantity": 1,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10646",
+    "date": "2025-11-16",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 543,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10647",
+    "date": "2025-09-08",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 808,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10648",
+    "date": "2025-10-17",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 85,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10649",
+    "date": "2025-06-24",
+    "product": "Amazon Fire HD 10",
+    "category": "Tablets",
+    "price": 230,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10650",
+    "date": "2025-06-18",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 15,
+    "quantity": 4,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10651",
+    "date": "2025-03-24",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 212,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10652",
+    "date": "2025-02-11",
+    "product": "Philips Monitor",
+    "category": "Monitors",
+    "price": 214,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10653",
+    "date": "2025-01-01",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 16,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10654",
+    "date": "2025-11-13",
+    "product": "Samsung Tab S9",
+    "category": "Tablets",
+    "price": 966,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10655",
+    "date": "2025-01-12",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 334,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10656",
+    "date": "2025-04-23",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 628,
+    "quantity": 3,
+    "region": "Kharkiv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10657",
+    "date": "2025-08-24",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 34,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10658",
+    "date": "2025-07-06",
+    "product": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 164,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10659",
+    "date": "2025-07-05",
+    "product": "Samsung Galaxy A55",
+    "category": "Smartphones",
+    "price": 476,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10660",
+    "date": "2025-06-29",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 44,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10661",
+    "date": "2025-07-27",
+    "product": "Sony WH-1000XM5",
+    "category": "Audio",
+    "price": 346,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10662",
+    "date": "2025-01-10",
+    "product": "Motorola Edge 40",
+    "category": "Smartphones",
+    "price": 512,
+    "quantity": 2,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10663",
+    "date": "2025-01-21",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1427,
+    "quantity": 2,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10664",
+    "date": "2025-09-01",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 14,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10665",
+    "date": "2025-05-13",
+    "product": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 176,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10666",
+    "date": "2025-09-13",
+    "product": "OnePlus 12",
+    "category": "Smartphones",
+    "price": 748,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10667",
+    "date": "2025-10-07",
+    "product": "ASUS ROG Strix",
+    "category": "Laptops",
+    "price": 1773,
+    "quantity": 3,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10668",
+    "date": "2025-08-03",
+    "product": "Laptop Stand",
+    "category": "Accessories",
+    "price": 54,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10669",
+    "date": "2025-03-05",
+    "product": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 1426,
+    "quantity": 1,
+    "region": "Kharkiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10670",
+    "date": "2025-09-06",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 66,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10671",
+    "date": "2025-03-14",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 37,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10672",
+    "date": "2025-08-20",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 62,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10673",
+    "date": "2025-08-11",
+    "product": "Xiaomi Pad 6",
+    "category": "Tablets",
+    "price": 516,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10674",
+    "date": "2025-04-03",
+    "product": "AOC 27 Gaming",
+    "category": "Monitors",
+    "price": 329,
+    "quantity": 3,
+    "region": "Vinnytsia",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10675",
+    "date": "2025-02-15",
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 395,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10676",
+    "date": "2025-08-18",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 672,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10677",
+    "date": "2025-09-04",
+    "product": "Acer Aspire 5",
+    "category": "Laptops",
+    "price": 892,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10678",
+    "date": "2025-10-09",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 110,
+    "quantity": 2,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10679",
+    "date": "2025-05-25",
+    "product": "Edifier Speakers",
+    "category": "Audio",
+    "price": 128,
+    "quantity": 1,
+    "region": "Kyiv",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10680",
+    "date": "2025-08-09",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 354,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10681",
+    "date": "2025-09-05",
+    "product": "iPhone SE 2022",
+    "category": "Smartphones",
+    "price": 459,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10682",
+    "date": "2025-08-04",
+    "product": "USB Hub",
+    "category": "Accessories",
+    "price": 33,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10683",
+    "date": "2025-04-15",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 79,
+    "quantity": 3,
+    "region": "Odesa",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10684",
+    "date": "2025-12-07",
+    "product": "Bluetooth Adapter",
+    "category": "Accessories",
+    "price": 33,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10685",
+    "date": "2025-12-28",
+    "product": "Phone Case",
+    "category": "Accessories",
+    "price": 23,
+    "quantity": 1,
+    "region": "Vinnytsia",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10686",
+    "date": "2025-06-27",
+    "product": "PlayStation 5",
+    "category": "Gaming",
+    "price": 451,
+    "quantity": 1,
+    "region": "Lviv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10687",
+    "date": "2025-02-17",
+    "product": "MSI Gaming Monitor",
+    "category": "Monitors",
+    "price": 587,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10688",
+    "date": "2025-05-07",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1062,
+    "quantity": 2,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10689",
+    "date": "2025-01-03",
+    "product": "MSI Modern 14",
+    "category": "Laptops",
+    "price": 857,
+    "quantity": 4,
+    "region": "Lviv",
+    "payment_method": "Google Pay"
+  },
+  {
+    "order_id": "ORD10690",
+    "date": "2025-08-23",
+    "product": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 1127,
+    "quantity": 3,
+    "region": "Kyiv",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10691",
+    "date": "2025-12-17",
+    "product": "MSI Modern 14",
+    "category": "Laptops",
+    "price": 886,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10692",
+    "date": "2025-04-07",
+    "product": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 180,
+    "quantity": 1,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10693",
+    "date": "2025-11-22",
+    "product": "Sony WF-1000XM5",
+    "category": "Audio",
+    "price": 255,
+    "quantity": 2,
+    "region": "Odesa",
+    "payment_method": "Card"
+  },
+  {
+    "order_id": "ORD10694",
+    "date": "2025-10-23",
+    "product": "USB-C Cable",
+    "category": "Accessories",
+    "price": 31,
+    "quantity": 4,
+    "region": "Poltava",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10695",
+    "date": "2025-03-17",
+    "product": "Samsung Buds2",
+    "category": "Audio",
+    "price": 150,
+    "quantity": 1,
+    "region": "Poltava",
+    "payment_method": "Apple Pay"
+  },
+  {
+    "order_id": "ORD10696",
+    "date": "2025-07-09",
+    "product": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 27,
+    "quantity": 2,
+    "region": "Dnipro",
+    "payment_method": "Cash"
+  },
+  {
+    "order_id": "ORD10697",
+    "date": "2025-05-24",
+    "product": "Xbox Series X",
+    "category": "Gaming",
+    "price": 604,
+    "quantity": 4,
+    "region": "Kyiv",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "order_id": "ORD10698",
+    "date": "2025-08-22",
+    "product": "PS5 Controller",
+    "category": "Gaming",
+    "price": 77,
+    "quantity": 2,
+    "region": "Kharkiv",
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD10699",
+    "date": "2025-12-25",
+    "product": "Gaming Chair",
+    "category": "Gaming",
+    "price": 369,
+    "quantity": 3,
+    "region": "Dnipro",
+    "payment_method": "Card"
+  }
+]

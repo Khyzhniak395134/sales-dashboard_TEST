@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sales Dashboard</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- HTML2Canvas & jsPDF for PDF Export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header class="header">
+
+        <div class="logo">
+            <h1>Sales Analytics Dashboard</h1>
+        </div>
+
+        <div class="header-actions">
+            <div class="search-wrapper">
+                <input type="text" id="productSearch" placeholder="Пошук товару..." autocomplete="off">
+                <div id="productSuggestions" class="suggestions hidden"></div>
+            </div>
+
+            <button id="importButton" class="export-btn" title="Завантажити JSON">
+                Імпорт ⬆
+            </button>
+
+            <button id="exportButton" class="export-btn" title="Експортувати PDF">
+                Експортувати ⬇
+            </button>
+
+            <select id="categoryFilter">
+                <option value="all">Усі категорії</option>
+            </select>
+
+            <span class="header-separator" aria-hidden="true"></span>
+
+            <button id="refreshButton" class="export-btn" title="Скинути дані">
+                ⟲
+            </button>
+
+            <input type="date" id="startDate" class="hidden-date">
+            <input type="date" id="endDate" class="hidden-date">
+
+            <input type="file" id="fileInput" class="hidden-file" accept=".json">
+        </div>
+
+    </header>
+
+    <!-- =========================
+         MAIN CONTENT
+    ========================== -->
+
+    <main class="dashboard">
+
+        <!-- =========================
+             STATISTICS CARDS
+        ========================== -->
+        <section class="stats-section">
+
+            <div class="stat-card">
+                <h3>Загальний дохід</h3>
+                <div class="stat-main">       
+                    <p id="totalRevenue">$0</p>
+                    <span id="revenueTrend" class="trend"></span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <h3>Всього замовлень</h3>
+                <div class="stat-main">
+                    <p id="totalOrders">0</p>
+                    <span id="ordersTrend" class="trend"></span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <h3>Загальна кількість продажів</h3>
+                <div class="stat-main">
+                    <p id="totalProducts">0</p>
+                    <span id="productsTrend" class="trend"></span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <h3>Середня вартість замовлення</h3>
+                <div class="stat-main">
+                    <p id="avgOrder">$0</p>
+                    <span id="avgTrend" class="trend"></span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <h3>Топ категорія</h3>
+                <p id="topCategory">-</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>Найкращий товар</h3>
+                <p id="bestProduct">-</p>
+            </div>
+
+        </section>
+
+        <!-- =========================
+             CHARTS SECTION
+        ========================== -->
+
+        <section class="charts-section">
+
+            <div class="chart-card">
+                <div class="chart-header">
+                    <h2 id="chartTitle">Продажі по місяцях</h2>
+                    <button id="backButton" style="display:none;">
+                        ← Назад
+                    </button>
+                </div>
+                <canvas id="salesLineChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h2>Продажі по категоріях</h2>
+                <canvas id="categoryPieChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h2>Топ продажів</h2>
+                <canvas id="topProductsBarChart"></canvas>
+            </div>
+
+        </section>
+
+        <!-- =========================
+        EXTRA ANALYTICS
+        ========================= -->
+
+        <section class="extra-section">
+
+        <!-- REGION ANALYTICS -->
+            <div class="chart-card">
+
+                <h2>Регіональна аналітика</h2>
+
+                <canvas id="regionChart"></canvas>
+
+            </div>
+
+        <!-- COMPARISON MODE -->
+            <div class="chart-card">
+
+                <h2>Способи Оплати</h2>
+
+                <canvas id="paymentChart"></canvas>
+
+            </div>
+
+        </section>
+        <!-- =========================
+             SALES TABLE
+        ========================== -->
+
+        <section class="table-section">
+
+            <div class="table-header">
+                <h2>Таблиця продажів</h2>
+            </div>
+
+            <div class="table-container">
+
+                <table>
+
+                    <thead>
+                        <tr>
+                            <th>Дата</th>
+                            <th>Товар</th>
+                            <th>Категорія</th>
+                            <th>Ціна</th>
+                            <th>Кількість</th>
+                            <th>Сума</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="salesTableBody">
+                        <!-- Дані будуть додаватися через JavaScript -->
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer class="footer">
+        <p>© 2025 Sales Dashboard System</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+
+
+    <!-- EXPORT MODAL -->
+    <div id="exportModal" class="modal hidden">
+        <div class="modal-box">
+            <h2>Експортувати поточну сторінку?</h2>
+
+            <div class="modal-actions">
+                <button id="cancelExport">Скасувати</button>
+                <button id="confirmExport">Так</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

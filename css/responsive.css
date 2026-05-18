@@ -1,0 +1,54 @@
+/* =========================
+   TABLETS
+========================= */
+
+@media (max-width: 992px) {
+
+    .stats-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .charts-section {
+        grid-template-columns: 1fr;
+    }
+
+    .chart-card:first-child {
+        grid-column: span 1;
+    }
+
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 768px) {
+
+    .header {
+        flex-direction: column;
+        gap: 20px;
+
+        align-items: flex-start;
+    }
+
+    .header-actions {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .header-actions select,
+    .header-actions input,
+    .header-actions button,
+    .header-actions span {
+        width: 100%;
+    }
+
+    .stats-section {
+        grid-template-columns: 1fr;
+    }
+
+    .dashboard {
+        padding: 20px;
+    }
+
+}
