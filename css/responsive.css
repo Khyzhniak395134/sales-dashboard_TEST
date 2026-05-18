@@ -24,31 +24,92 @@
 
 @media (max-width: 768px) {
 
+    /* Header: make actions touch-friendly and wrap on small screens */
     .header {
-        flex-direction: column;
-        gap: 20px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px 16px;
+    }
 
-        align-items: flex-start;
+    .header .logo h1 {
+        font-size: 1.1rem;
+        margin: 0;
     }
 
     .header-actions {
-        flex-direction: column;
-        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        align-items: center;
+        width: auto;
     }
 
-    .header-actions select,
-    .header-actions input,
     .header-actions button,
-    .header-actions span {
-        width: 100%;
+    .header-actions select,
+    .header-actions input[type="date"],
+    .header-actions .search-wrapper input {
+        padding: 10px 14px;
+        font-size: 15px;
+        min-height: 44px; /* meet touch target */
+        border-radius: 8px;
+        box-sizing: border-box;
     }
 
+    .search-wrapper { max-width: 220px; flex: 1 1 140px; }
+    .search-wrapper input { width: 100%; }
+
+    /* Statistics cards: horizontal row with scrolling */
     .stats-section {
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: row;
+        gap: 12px;
+        overflow-x: auto;
+        padding: 12px 4px;
+        -webkit-overflow-scrolling: touch;
+        scroll-snap-type: x mandatory;
+        align-items: stretch;
+    }
+
+    .stats-section .stat-card {
+        flex: 0 0 calc(80% - 12px);
+        min-width: 220px;
+        max-width: 320px;
+        scroll-snap-align: start;
+    }
+
+    /* Small visual tweaks for cards on tiny phones */
+    @media (max-width: 420px) {
+        .stats-section .stat-card { flex: 0 0 85%; min-width: 200px; }
+        .header .logo h1 { font-size: 1rem; }
+    }
+
+    /* Charts: full width canvas and stacked layout */
+    .charts-section,
+    .extra-section {
+        display: block;
+        width: 100%;
+        padding: 0 8px;
+    }
+
+    .chart-card {
+        width: 100%;
+        margin-bottom: 18px;
+        box-sizing: border-box;
+    }
+
+    .chart-card canvas {
+        width: 100% !important;
+        height: auto !important;
+        max-width: 100%;
+        display: block;
     }
 
     .dashboard {
-        padding: 20px;
+        padding: 12px;
     }
 
 }
