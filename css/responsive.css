@@ -47,7 +47,8 @@
         align-items: center;
         gap: 8px;
         width: 100%;
-        overflow: visible;
+        overflow-x: auto;
+        overflow-y: visible;
         padding: 8px 10px;
         border: 1px solid rgba(255,255,255,0.12);
         border-radius: 999px;
@@ -83,15 +84,13 @@
     }
 
     .header-actions .search-wrapper {
-        position: relative;
         min-width: 140px;
         width: auto;
         flex: 0 0 auto;
     }
 
     .suggestions {
-        z-index: 9999;
-        max-height: 320px;
+        z-index: 999;
     }
 
     .header-actions button {
