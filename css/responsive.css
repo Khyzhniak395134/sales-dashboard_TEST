@@ -85,12 +85,7 @@
 
     .header-actions .search-wrapper {
         min-width: 140px;
-        width: auto;
         flex: 0 0 auto;
-    }
-
-    .suggestions {
-        z-index: 999;
     }
 
     .header-actions button {
