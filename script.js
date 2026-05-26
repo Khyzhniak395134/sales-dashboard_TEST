@@ -7,7 +7,7 @@ let selectedMonth = null;
 let salesChartInstance = null;
 
 // =========================
-// DATA MANAGEMENT (NEW)
+// DATA MANAGEMENT
 // =========================
 
 let originalData = [];  // Оригінальні дані
@@ -32,7 +32,7 @@ function closeModal() {
 
     const modalBox = document.querySelector(".modal-box");
 
-    // Remove loading state if exists
+    // Видалити стан завантаження
     modalBox.classList.remove("loading");
 
     modal.classList.add("hidden");
@@ -50,7 +50,7 @@ async function exportCurrentViewToPDF() {
 
     confirmBtn.disabled = true;
 
-    // Create a container for the dashboard snapshot
+    // Kонтейнер для знімка панелі інструментів
     const dashboardContainer = document.querySelector(".dashboard");
     const tableSection = document.querySelector(".table-section");
     const previousTableDisplay = tableSection ? tableSection.style.display : "";
@@ -284,7 +284,7 @@ function calculateTrend(currentValue, previousValue) {
 }
 
 // =========================
-// LOAD INITIAL DATA
+// LOAD POCHATKOVA DATA
 // =========================
 
 // Завантаження JSON
@@ -297,7 +297,7 @@ fetch('data/sales.json')
 
         console.log("Data loaded:", salesData);
 
-        // Після завантаження запускаємо систему
+        // Запуск системи
         initDashboard();
     })
     .catch(error => {
@@ -306,7 +306,7 @@ fetch('data/sales.json')
 
 
 // =========================
-// JSON UPLOAD FUNCTIONS (NEW)
+// JSON UPLOAD FUNCTIONS
 // =========================
 
 /**
@@ -336,7 +336,7 @@ function showErrorModal(title, message) {
 }
 
 /**
- * Закривает error modal
+ * Закривае error modal
  */
 function closeErrorModal() {
     document.getElementById("errorModal").classList.add("hidden");
@@ -344,7 +344,7 @@ function closeErrorModal() {
 }
 
 /**
- * Обработка завантаження файлу
+ * Обрабка завантаження файлу
  */
 function handleFileUpload(event) {
     const file = event.target.files[0];
@@ -469,7 +469,7 @@ function initDashboard() {
 
 
 // =========================
-// 3. CALCULATE STATS (поки базово)
+// 3. CALCULATE STATS
 // =========================
 
 function calculateStats() {
@@ -573,7 +573,7 @@ function calculateStats() {
     const avgTrend =
         calculateTrend(averageOrder, previousAvg);
 
-    // Revenue
+    // Дохід
     const revenueTrendEl =
         document.getElementById("revenueTrend");
 
@@ -581,7 +581,7 @@ function calculateStats() {
     revenueTrendEl.className =
         `trend ${revenueTrend.className}`;
 
-    // Orders
+    // Замовлення
     const ordersTrendEl =
         document.getElementById("ordersTrend");
 
@@ -589,7 +589,7 @@ function calculateStats() {
     ordersTrendEl.className =
         `trend ${ordersTrend.className}`;
 
-    // Products
+    // Продукт
     const productsTrendEl =
         document.getElementById("productsTrend");
 
@@ -597,7 +597,7 @@ function calculateStats() {
     productsTrendEl.className =
         `trend ${productsTrend.className}`;
 
-    // Avg
+    // Авг
     const avgTrendEl =
         document.getElementById("avgTrend");
 
@@ -983,7 +983,7 @@ function updateDashboard() {
 }
 
 // =========================
-// 11. updateDashboard
+// 11. refreshData
 // =========================
 
 /**
@@ -1059,9 +1059,8 @@ function setupEventListeners() {
         }
     });
 
-    // Clear button removed — no-op
 
-    // Filter listeners
+    // Filter
     document.getElementById("categoryFilter")
         .addEventListener("change", scheduleFilterUpdate);
 
